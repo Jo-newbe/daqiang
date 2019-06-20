@@ -5,3 +5,7 @@
 .dark {
   background-color: black;
 }
+
+li {
+  list-style: none;
+}
